@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+beautifulsoup4
+lxml
+requests
+tldextract
+opencv-python
+Pillow
+matplotlib
+seaborn
+tqdm
+torch
+torchvision
+transformers
+joblib
